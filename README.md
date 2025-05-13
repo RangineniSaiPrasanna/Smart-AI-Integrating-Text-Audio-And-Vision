@@ -1,3 +1,5 @@
+**Smart-AI-Integrating-Text-Audio-And-Vision**
+
 **Smart AI** refers to the next generation of artificial intelligence that can understand and interact with the world just like we do—by processing language, speech, and visuals together.
 The goal is to create a system that doesn’t just respond to inputs, but actually understands context and behaves naturally.
 
